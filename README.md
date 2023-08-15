@@ -1,4 +1,4 @@
-# Ga e Of Life
+# Game Of Life
 
 Implementation done for takehome test.
 
